@@ -1,5 +1,0 @@
-{{#user}
-Name: Priyanshu
-Skills : React js,Javascript, Next js, Tailwind, Git/GitHub,HTML,CSS.
-Email : priyanshu07g@gmail.com
-{{/user}}
